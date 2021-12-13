@@ -1,0 +1,49 @@
+@font-face {
+    font-family: PottaOne;
+    src: url(PottaOne-Regular.ttf);
+}
+@font-face {
+    font-family: YuseiMagic;
+    src: url(YuseiMagic-Regular.ttf);
+}
+
+h1 {
+    text-align: center;
+    color: yellow;
+    background-color: blue;
+    font-family: 'PottaOne', sans-serif;
+}
+
+section.text1 {
+    display: inline-block;
+    background-color: #4C9E91;
+    color: white;
+    width: 25%;
+    float: left;
+}
+
+section.text2 {
+    color: yellow;
+    background-color: black;
+    line-height: 300%;
+}
+
+hr {
+    width: 50%;
+}
+
+h2.b {
+    color: blue;
+    background-color: blue;
+    margin-top: 30px;
+    margin-right: 25%;
+    
+}
+
+section.text3 {
+    font-family: 'Coda Caption', sans-serif;
+}
+
+section.text4 {
+    font-family: 'YuseiMagic', sans-serif;
+}
